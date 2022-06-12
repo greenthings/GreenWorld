@@ -3,7 +3,7 @@ To be updated....
 
 [![Language](https://img.shields.io/badge/Language-Swift_5.6-orange.svg)]()
 [![Framework](https://img.shields.io/badge/Framework-SwiftUI_3.0-red.svg)]()
-[![Framework](https://img.shields.io/badge/Framework-SpriteKit_3.0-red.svg)]()
+[![Framework](https://img.shields.io/badge/Framework-SpriteKit-red.svg)]()
 
 
 # GreenWorld
